@@ -9,7 +9,7 @@ image:
 media_subpath: /assets/img/posts/multiclaw-series/
 ---
 
-> **Series**: Multi-Agent Isolation (Article 3 of 4)
+> **Series**: Multi-Agent Isolation (Article 3 of 5)
 
 ---
 
@@ -206,3 +206,4 @@ If you are building a multi-agent system and you haven't thought about message o
 - Article 2: [Seven Users, Seven Vaults: Defense-in-Depth for Multi-Agent Systems](/blog/2026-02-27-defense-in-depth/)
 - **Article 3: The Communication Problem: Why Multi-Agent Messaging is Harder Than You Think** (you are here)
 - Article 4: [Governance by Architecture: How to Stop Your Orchestrator From Going Rogue](/blog/2026-02-27-governance-architecture/)
+- Article 5: [Two Deployment Paths: When Your Multi-Agent Host Should Leave Your Laptop](/blog/2026-03-06-aws-path-vs-local-host/)
